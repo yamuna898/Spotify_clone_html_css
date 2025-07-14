@@ -1,13 +1,6 @@
 # Spotify_clone_html_css
-## Disclaimer
-
-This project is a front-end clone of the Spotify homepage created purely for **educational and non-commercial** purposes.  
-I do not own any rights to the **Spotify** name, logo, branding, or design assets.  
-All trademarks and copyrights belong to their respective owners.  
-No audio streaming functionality or backend integration is included in this project.
-
-If there is any issue regarding this project, please contact me and I will take appropriate action.
 14-07-2025
+The music player section is currently missing — but I'll be adding it soon!
 ## ⚠️ Disclaimer
 
 This project is a **non-commercial, front-end-only clone of the Spotify user interface**, created strictly for **educational and personal learning purposes**.
@@ -19,3 +12,10 @@ The logo has been used here only as a **visual placeholder** to better represent
 If any trademark owner or Spotify representative has concerns, please feel free to contact me and I will promptly remove the logo or make necessary changes.
 
 Thank you for understanding 🙏
+
+### Project Scope
+
+This project focuses only on the **front-end layout and design** of the Spotify homepage.  
+Please note that the **music player functionality, audio controls, and backend features** have **not been implemented** in this version.  
+
+The goal of this project is to improve HTML and CSS skills by recreating a real-world UI.
