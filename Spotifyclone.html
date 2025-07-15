@@ -6,7 +6,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link rel="icon" href="logo.png" />
         <title>Spotify - Web Player: Music for everyone</title>
-        <link rel="stylesheet" href="Spotify.css" />
+        <link rel="stylesheet" href="Spotifyclone.css" />
         <!-- font-awesome(icons)-->
         <link
             rel="stylesheet"
@@ -188,7 +188,9 @@
                         <h1 style="display: inline">
                             Spotify original &amp; Exclusive podcasts
                         </h1>
-                        <h4 style="display: inline">Show all</h4>
+                        <h4 style="display: inline; font-size: 10px">
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Show all
+                        </h4>
                         <br /><br /><br /><br />
                         <div class="m3" id="m" style="display: inline-block">
                             <img src="card3img.jpeg" />
@@ -228,7 +230,9 @@
                     </div>
                     <div class="main_content_recommended">
                         <h1 style="display: inline">Recommended for today</h1>
-                        <h4 style="display: inline">Show all</h4>
+                        <h4 style="display: inline; font-size: 10px">
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Show all
+                        </h4>
                         <br /><br /><br /><br />
                         <div class="m3" id="m" style="display: inline-block">
                             <img src="card3img.jpeg" />
@@ -303,7 +307,9 @@
                     </div>
                     <div class="main_content_episodes">
                         <h1 style="display: inline">Episodes you might like</h1>
-                        <h4 style="display: inline">Show all</h4>
+                        <h4 style="display: inline; font-size: 10px">
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Show all
+                        </h4>
                         <br /><br /><br /><br />
                         <div class="m3" id="m" style="display: inline-block">
                             <img src="card3img.jpeg" />
@@ -336,10 +342,54 @@
                             <p>jaz</p>
                         </div>
                     </div>
+                    <div class="footer"></div>
                 </div>
             </div>
             <!--------------------------------MUSIC PLAYER-------------------------------------------------->
-            <div class="music-player">Music Player</div>
+            <div class="music_player">
+                <div class="music_player_playing">
+                    <img src="card3img.jpeg" />
+                    <h5>Mere pass ho tum</h5>
+                    <p>neta ji</p>
+                    <i class="fa-regular fa-square-plus"></i>
+                </div>
+                <div class="music_player_control">
+                    <div class="up">
+                        <img src="player_icon1.png" />
+                        <img src="player_icon2.png" />
+                        <img src="play_musicbar.png" id="play" />
+                        <img src="player_icon4.png" />
+                        <img src="player_icon5.png" />
+                    </div>
+                    <br />
+                    <div class="bottom">
+                        <span>01:00</span>
+                        <input
+                            type="range"
+                            style="width: 750px; overflow: hidden"
+                        />
+                        <span>03:33</span>
+                    </div>
+                </div>
+                <div class="music_player_more">
+                    <i class="fa-solid fa-expand"></i
+                    ><i class="fa-solid fa-tablet"></i><input type="range" /><i
+                        class="fa-solid fa-volume-high"
+                    ></i
+                    ><img src="speaker.png" /><i
+                        v
+                        class="fa-solid fa-bars-staggered"
+                    ></i
+                    ><i
+                        style="display: inline-block"
+                        class="fa-solid fa-microphone"
+                    ></i>
+                    <i
+                        style="display: inline-block"
+                        class="fa-brands fa-square-youtube"
+                    ></i>
+                </div>
+            </div>
         </div>
     </body>
 </html>
