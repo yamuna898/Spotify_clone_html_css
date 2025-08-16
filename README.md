@@ -1,23 +1,23 @@
-Spotify Clone 🎵 
-A simple Spotify Clone built using HTML & CSS.
-This project was made just for learning and practice purposes. It only focuses on the UI design part and does not include any backend or music functionality. 
+# **Spotify Clone 🎵**<br> 
+A simple Spotify Clone built using HTML & CSS.<br>
+This project was made just for learning and practice purposes. It only focuses on the UI design part and does not include any backend or music functionality. <br>
 
-Features
-Clean layout inspired by Spotify
-Responsive design (works on different screen sizes)
-Used icons and logos only for visual appearance (all rights belong to their respective owners)
-Pure HTML + CSS, no JavaScript
+Features<br>
+Clean layout inspired by Spotify<br>
+Responsive design (works on different screen sizes)<br>
+Used icons and logos only for visual appearance (all rights belong to their respective owners)<br>
+Pure HTML + CSS, no JavaScript<br>
 
-📸 Preview
-![Finalpage](https://github.com/user-attachments/assets/211f151d-5898-4843-b7e6-dcff18b3bf2c)
+📸 Preview<br>
+![Finalpage](https://github.com/user-attachments/assets/211f151d-5898-4843-b7e6-dcff18b3bf2c) <br>
 
-🛠️ Tech Stack
-HTML5
-CSS3
+🛠️ Tech Stack<br>
+HTML5<br>
+CSS3<br>
 
-About Me :
-I’m a beginner web developer, currently learning and practicing frontend skills. This project is part of my journey to improve layout design and styling.
+About Me :<br>
+I’m a beginner web developer, currently learning and practicing frontend skills. This project is part of my journey to improve layout design and styling.<br>
 
-⚠Disclaimer
-This is not an official Spotify app.
-All icons, logos, and brand assets used here belong to their respective owners. This project is only for educational purposes.
+⚠Disclaimer<br>
+This is not an official Spotify app.<br>
+All icons, logos, and brand assets used here belong to their respective owners. This project is only for educational purposes.<br>
